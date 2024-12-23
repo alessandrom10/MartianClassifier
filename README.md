@@ -35,5 +35,3 @@ This repository contains a neural network designed to segment Mars soil in image
    - Save the trained model for further use.  
 4. **Evaluation**  
    - Assess the model's performance on a separate validation/testing set.  
-
-Feel free to explore the code and adapt it for your use case. Contributions are welcome!  
